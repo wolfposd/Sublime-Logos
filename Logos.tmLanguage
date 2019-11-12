@@ -15,7 +15,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>%(init|hook|subclass|group|class|new|ctor|end|config|orig|log)</string>
+			<string>%(c|class|config|ctor|dtor|end|group|hook|hookf|init|log|new|orig|property|subclass)</string>
 			<key>name</key>
 			<string>keyword.source.logos</string>
 		</dict>
